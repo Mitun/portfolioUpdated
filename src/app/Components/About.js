@@ -74,7 +74,7 @@ const About = () => {
         <div className=" flex flex-col lg:justify-evenly lg:w-1/2 items-center justify-center ">
           <div className=" mb-8 ">
             <h1 className="mt-10 text-6xl sm:text-7xl md:text-8xl lg:text-9xl xl:text-10xl">
-              Hi! 👋
+              Hi! 🙏
             </h1>
             <h1 className=" text-6xl sm:text-7xl md:text-8xl lg:text-9xl xl:text-10xl ">
               I&apos;m Mitun
